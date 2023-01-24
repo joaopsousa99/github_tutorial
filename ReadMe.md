@@ -1,3 +1,4 @@
+# BOOM
 ## git/github guide: Karl's minimal tutorial
 
 All statistical/computational scientists should use
